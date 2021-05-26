@@ -1,0 +1,13 @@
+Fazer um programa para uma universidade.
+Os atributos do estudante são:
+   - número de matrícula,
+   - nome,
+   - nota1,
+   - nota2, e
+   - nota3.
+As opções do programa são:
+a) Ler as informações de cada estudante (utilizar flag para encerrar a leitura);
+b) Imprimir a relação dos estudantes aprovados (média >= 7);
+c) Imprimir a relação dos estudantes em exame;
+d) Ordenar os estudantes de forma crescente por média;
+e) Imprimir: e.1)  o estudante com maior média(pode considerar que não haverá empate), e e.2) o estudante com menor média.
